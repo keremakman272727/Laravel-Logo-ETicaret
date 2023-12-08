@@ -2,31 +2,9 @@ Uygulamayı yaparken FrontEnd tarafında React, BackEnd tarafında ise Laravel A
 
 
 # Uygulama İçi Görüntüler
-
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171552.jpg)
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171571.jpg)
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171590.jpg)
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171610.jpg)
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171632.jpg)
-#
-![](https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171656.png)
-#
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce7.png)
-#
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce8.png)
-#
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce9.png)
-#
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce10.png)
-#
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce11.png)
-### Admin Ürün Ekleme
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce12.png)
-### Admin Gelen Sipariş Listesi
-![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce13.png)
-
+<img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171552.jpg" width="300" height="200" alt="Resim 1">
+    <img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171571.jpg" width="300" height="200" alt="Resim 2">
+    <img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171590.jpg" width="300" height="200" alt="Resim 3">
+    <img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171610.jpg" width="300" height="200" alt="Resim 4">
+    <img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171632.jpg" width="300" height="200" alt="Resim 5">
+    <img src="https://github.com/keremakman272727/Laravel-Logo-ETicaret/blob/main/img/1702050171656.png" width="300" height="200" alt="Resim 6">
